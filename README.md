@@ -14,7 +14,7 @@
 - 🏫 I’m currently learning **Full Stack Web Devlopment and DSA**
 - 🙌 I’m looking to collaborate on **Web Development**
 - 🤔 I’m looking for help with D**SA and Competitive Programing**
-- - 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native**
 - 💬 Ask me about **Front-end Dev, DSA**
 - 📫 How to reach me **madhvaniparth2@gmail.com**
 
