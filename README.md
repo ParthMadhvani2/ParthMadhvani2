@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthmadhvani2&label=Profile%20views&color=0e75b6&style=flat" alt="parthmadhvani2" /> </p>
 
-<p>👨‍🎓This is Parth Madhvani, an Information Technology undergraduate, pursuing a B.Tech from<a href="https://www.adit.ac.in/">A D Patel Institute of Technology</a>, Anand. I am always fascinated by programming and passionate about exploring the latest technology and developing new cool and innovative products. I am an enthusiastic and curious individual who works hard and is highly ambitious in improving my knowledge of real-world applications.
+<p>👨‍🎓This is Parth Madhvani, an Information Technology undergraduate, pursuing a B.Tech from <a href="https://www.adit.ac.in/">A D Patel Institute of Technology</a>, Anand. I am always fascinated by programming and passionate about exploring the latest technology and developing new cool and innovative products. I am an enthusiastic and curious individual who works hard and is highly ambitious in improving my knowledge of real-world applications.
 </p>
 
 <p>⚡I am a Front-End Developer, and UX/UI Designer, I enjoy building applications while creating feasible design systems. My deep understanding of front-end application structure and architecture allows me to build unique products using core principles.
