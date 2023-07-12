@@ -17,7 +17,7 @@
 <div align="left">
   <a href="https://linkedin.com/in/parthmadhvani/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/MadhvaniParth" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="https://madhvaniparth.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+  <a href="[https://madhvaniparth.vercel.app/](https://parthmadhvani2.github.io/Portfolio/)" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
   <a href="https://instagram.com/madhvani_parth" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="mailto:madhvaniparth2@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
@@ -29,9 +29,9 @@
 const ParthMadhvani2 = {
   fulName: "Parth Madhvani",
   pronouns: "He/Him",
-  tags: [ "Frontend❤️" , "Open-Source🚀" , "Hackathons⚡" , "Communities🎯" , "Competitive Programming"],
-  askMeAbout: [ "Web Development", "DSA" , "Open Source" ],
-  reachMeOut: ["madhvaniparth2@gmail.com"],
+  tags: [ "Frontend❤️", "Open-Source🚀", "Hackathons⚡", "Communities🎯", "Competitive Programming"],
+  ask me about: [ "Web Development", "DSA", "Open Source" ],
+  reach out: ["madhvaniparth2@gmail.com"],
 }
 ```
 
