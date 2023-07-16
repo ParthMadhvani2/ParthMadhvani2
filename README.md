@@ -80,6 +80,7 @@ const ParthMadhvani2 = {
 <p>☁️ Hosting/Cloud :</p>
 <div>
  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+ <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
  <img alt="DigitalOcean" src="https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=for-the-badge&logo=digitalocean"/>
  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=for-the-badge&logo=microsoft-azure"/>
  <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=google-cloud"/>
