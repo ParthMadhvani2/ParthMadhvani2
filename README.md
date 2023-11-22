@@ -15,7 +15,7 @@
 <div align="left">
   <a href="https://linkedin.com/in/parthmadhvani2/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/parthmadhvani2" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="https://parthmadhvani2.github.io/Portfolio/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+  <a href="https://parthmadhvani2.github.io/MyPortfolio/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
   <a href="https://instagram.com/parthmadhvani2" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="mailto:madhvaniparth2@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
