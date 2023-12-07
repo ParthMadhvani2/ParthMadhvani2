@@ -11,15 +11,20 @@
 🎯In terms of technical skills, I work with Javascript and Typescript daily, both professionally and on personal projects. I have actively participated in various hackathons and taken part in the community to help with community building, team leadership, and different methodologies in developing software.
 </p>
 
-<h2 align="left">Connect with me🤝</h2>
-<div align="left">
-  <a href="https://linkedin.com/in/parthmadhvani2/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/parthmadhvani2" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="https://parthmadhvani2.github.io/MyPortfolio/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
-  <a href="https://instagram.com/parthmadhvani2" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="mailto:madhvaniparth2@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-</div>
+## Mail Me
+
+<p align="left">&nbsp;<a href="mailto:madhvaniparth2@gmail.com" align="left"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/gmail.png" height=50> </a></p>
+
+## Connect with me🤝
+
+<p>
+  <a href="https://twitter.com/parthmadhvani2"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/twitterlogo.png" height=44></a> &nbsp; &nbsp;<a href="https://linkedin.com/in/parthmadhvani2/"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/linkedinlogo.png" height=44></a> &nbsp; &nbsp;<a href="https://instagram.com/parthmadhvani2"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/instagramlogo.png" height=44></a> &nbsp; &nbsp;<a href="https://open.spotify.com/user/7twr4vzeaw530kmta309790k6"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/spotifylogo.png" height=44></a>
+
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthmadhvani2&label=Profile%20views&color=0e75b6&style=flat" alt="parthmadhani2" /> </p>
+
 
 <h2 align="left">About me👨‍💻</h2>
 
