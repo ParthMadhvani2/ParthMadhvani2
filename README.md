@@ -1,16 +1,16 @@
 ![image](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)
 <h2 align="left">Hey, I'm Parth Madhvani <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/></h2>
 
-<p>👨‍🎓This is Parth Madhvani, an Information Technology undergraduate, pursuing a B.Tech from <a href="https://www.adit.ac.in/">A D Patel Institute of Technology</a>, Anand. I am always fascinated by programming and passionate about exploring the latest technology and developing new cool and innovative products. I am an enthusiastic and curious individual who works hard and is highly ambitious in improving my knowledge of real-world applications.
-</p>
-
-<p>⚡I am a Front-End Developer and UX Designer, I enjoy building applications while creating feasible design systems. My deep understanding of front-end application structure and architecture allows me to build unique products using core principles.
+<p>👨‍🎓 I'm Parth Madhvani, an Information Technology undergraduate pursuing a B.Tech from <a href="https://www.adit.ac.in/">A D Patel Institute of Technology, Anand. I'm always fascinated by programming, and passionate about exploring the latest technology and developing innovative products. As an enthusiastic and curious individual, I work hard and am highly ambitious in improving my knowledge of real-world applications.
 </p>
 
 <p>
-🎯In terms of technical skills, I work with Javascript and Typescript daily, both professionally and on personal projects. I have actively participated in various hackathons and taken part in the community to help with community building, team leadership, and different methodologies in developing software.
+⚡ I specialize as a Front-End Developer and UX/UI Designer, relishing the process of building applications while creating practical design systems. My deep understanding of front-end application structure and architecture enables me to craft unique products based on core principles.
 </p>
 
+<p>
+🎯 In terms of technical skills, I work extensively with Javascript and Typescript on a daily basis, both professionally and in personal projects. I actively participate in various hackathons, contribute to community building, provide team leadership, and explore diverse methodologies in software development.
+</p>
 
 ## Mail Me
 
