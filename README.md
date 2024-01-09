@@ -76,11 +76,10 @@ const ParthMadhvani2 = {
 <div>
  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
  <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
- <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=google-cloud"/>
+<!--  <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=google-cloud"/> -->
  <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
  <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white"/>
- <img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
  <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
 </div>
@@ -102,6 +101,7 @@ const ParthMadhvani2 = {
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=parthmadhvani2&show_icons=true&theme=tokyonight" />
+  <img width="36%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=parthmadhvani2&layout=compact&theme=tokyonight'/>
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=parthmadhvani2&theme=tokyonight" />
 </p>
 </div>
