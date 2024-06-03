@@ -70,7 +70,7 @@ const ParthMadhvani2 = {
 ### Backend  
 <div align="center">  
  
-[![My Skills](https://skillicons.dev/icons?i=mongodb,nodejs,express,mysql,postgres,prisma,firebase,go,supabase&perline=4)]()
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,graphql,postgres,prisma,firebase,go,supabase&perline=4)]()
  
 </div>
 
@@ -79,7 +79,7 @@ const ParthMadhvani2 = {
 <div align="center">
 <h1>𝓞𝓽𝓱𝓮𝓻 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 & 𝓣𝓸𝓸𝓵𝓼:</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,git,github,netlify,vercel,vite)]()
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,git,github,netlify,vercel,vite,postman,docker,webpack,jest,cypress,strapi,npm,yarn,bun,aws,)]()
 
  
 </div>
