@@ -30,7 +30,7 @@ const ParthMadhvani2 = {
 
 * Check out more about me - [parthmadhvani2.me](https://parthmadhvani2.vercel.app) 
 
-<a href="https://parthmadhvani2.github.io/MyPortfolio/resume.html" target="_blank">Resume 🔗</a>
+<a href="https://parthmadhvani2.vercel.app/resume" target="_blank">Resume 🔗</a>
 
 
 ## Mail Me
