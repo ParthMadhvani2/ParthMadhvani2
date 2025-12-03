@@ -1,113 +1,50 @@
-![image](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)
-<h2 align="left"><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/> About me</h2>
+### Hi, I'm Parth 👋  
+I’m a frontend engineer focused on building scalable interfaces, design systems, and modern web applications using React, Next.js, and TypeScript. My work lies at the intersection of **design and engineering**, where I bring together clean UI architecture, component-driven development, and performance-oriented execution.
 
-I am Parth Madhvani, a frontend engineer 💼 and open-source developer based in India. <br/>
-I am passionate about creating beautiful user-friendly products & tools 💜
+I enjoy crafting thoughtful interfaces, building reusable component libraries, and solving product problems with a strong emphasis on detail, developer experience, and visual clarity.
 
-```JavaScript
-const ParthMadhvani2 = {
-  full Name: "Parth Madhvani",
-  pronouns: "He/Him",
-  tags: [ "Frontend Development❤️", "UI Design/Development", "Components & Design Systems", "Open-Source🚀"],
-  reach out: ["madhvaniparth2@gmail.com"],
-}
-```
+---
 
-> I would love to contribute to the open-source web development projects (specially frontend).
+### 🌐 What I’m working on  
+I recently worked as a **Frontend Engineer** across fast-moving startups, contributing to UI architecture, backend integrations, and AI-powered workflows.
 
-```javascript
+**At Pactle**, I engineered features for an AI-driven quote-to-cash automation system. My work included:  
+- Building complex, scalable UI flows for RFQ capture, quoting, approvals, and invoicing  
+- Designing component-driven systems that supported dynamic business workflows  
+- Implementing AI-based features such as PDF → quote extraction, email-ingested RFQs, and product recommendation  
+- Collaborating closely with backend teams to shape APIs, data models, and ERP integrations  
 
- currently open for full-time/part-time intern job roles in frontend development 🌱
+**At Connektra.io**, I contributed to a no-code integration platform by:  
+- Maintaining 55+ enterprise-grade integrations  
+- Building automated workflows powered by AI  
+- Improving the platform’s reliability and developer experience  
+- Enhancing the visual workflow builder for seamless user automation  
 
-```
+**At Xipper**, I worked full-stack, where I:  
+- Developed the full frontend using React and Tailwind  
+- Designed optimized PostgreSQL schemas with Prisma  
+- Built backend APIs and real-time analytics systems  
+- Ensured smooth frontend–backend collaboration across the product  
 
-#### 💜 Volunteer work
+---
 
-- Hackathons - Participated, volunteered and mentored people in various hackathons conducted by MLH.
-- Open-Source - Contributed to various projects during many open-source programs such as Hacktoberfest, GSSoC many others.
+### 🎨 What I like to build  
+I enjoy working on:  
+- **Design systems & reusable component libraries**  
+- **Frontend architecture** for scalable product surfaces  
+- **High-signal UX**: micro-interactions, animations, polished UI  
+- **TypeScript-driven engineering** for safe and expressive components  
+- **AI-powered product interfaces**  
+- **Automation tools** that simplify complex workflows  
 
+I often prototype playful UI ideas, experiment with component patterns, and refine concepts around accessibility, performance, and design-to-code workflows.
 
+---
 
-* Check out more about me - [parthmadhvani2.me](https://parthmadhvani2.vercel.app) 
+### 🤝 Let’s connect  
+I’m always interested in collaborating on frontend-heavy projects, design systems, developer tools, and early-stage product engineering.
 
-<a href="https://parthmadhvani2.vercel.app/resume" target="_blank">Resume 🔗</a>
-
-
-## Mail Me
-
-<p align="left">&nbsp;<a href="mailto:madhvaniparth2@gmail.com" align="left"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/gmail.png" height=50> </a></p>
-
-## Connect with me🤝
-
-<p>
-  <a href="https://twitter.com/parthmadhvani2"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/twitterlogo.png" height=44></a> &nbsp; &nbsp;
-  <a href="https://linkedin.com/in/parthmadhvani2/"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/linkedinlogo.png" height=44></a> &nbsp; &nbsp;
-  <a href="https://instagram.com/parthmadhvani2"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/instagramlogo.png" height=44></a> &nbsp; &nbsp;
-</p>
-
-
-
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-
-<div align="center">
-<h1>My Skills</h1>
-</div>
-
-<table align="center"><tr><td valign="top" width="33%">
-
-### Frontend  
-<div align="center">  
-
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,materialui,bootstrap,sass,figma&perline=4)]()
-
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
- 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,graphql,postgres,prisma,firebase,go,supabase&perline=4)]()
- 
-</div>
-
-</td></tr></table>  
-
-<div align="center">
-<h1>𝓞𝓽𝓱𝓮𝓻 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 & 𝓣𝓸𝓸𝓵𝓼:</h1>
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,git,github,netlify,vercel,vite,postman,docker,webpack,jest,cypress,strapi,npm,yarn,bun,aws,)]()
-
- 
-</div>
-
-<br />
-
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-<p>💰 Support</p>
-<div>
-<a href='https://www.buymeacoffee.com/madhvaniparth' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Parth on buymecoffee' /></a>
-</div>
-
-
-
-<div>
-<h2>Stats📈</h2>	
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthmadhvani2&theme=tokyonight" alt="Parth | Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=parthmadhvani2&show_icons=true&theme=tokyonight" />
-  <img width="36%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=parthmadhvani2&layout=compact&theme=tokyonight'/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=parthmadhvani2&theme=tokyonight" />
-</p>
-</div>
-
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-<h3 align="center">Show some &nbsp;❤️&nbsp; by staring some of the repositories<br/>Want to collab or talk? Feel free to contact me <a href="https://calendly.com/madhvaniparth/30min">
- Calendly
-</a></h3>
+- Portfolio → https://parthmadhvani2.vercel.app  
+- LinkedIn → https://linkedin.com/in/parthmadhvani2  
+- Twitter/X → https://x.com/parthmadhvani2  
+- Email → madhvaniparth2@gmail.com  
