@@ -19,7 +19,7 @@ Cloudflare Workers · R2 · Docker · Dodo Payments
 
 **Find me**
 
-- [parthmadhvani.com](https://parthmadhvani.com)
+- [parthmadhvani2](https://parthmadhvani2.vercel.app/)
 - [LinkedIn](https://linkedin.com/in/parthmadhvani2)
 - [Twitter](https://x.com/parthmadhvani2)
 - madhvaniparth2@gmail.com
